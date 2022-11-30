@@ -1,0 +1,221 @@
+header{
+  position: relative;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
+header a{
+  color: black;
+  font-weight: 900;
+}
+header a:hover{
+  color: black;
+}
+.arrow{
+  position: absolute;
+  left: 10px;
+}
+.arrow img{
+  width: 25px;
+  height: 25px;
+}
+.house{
+  position: absolute;
+  left: 45px;
+}
+.house img{
+  width: 25px;
+  height: 25px;
+}
+main {
+  padding: 40px 12px 0 12px;
+}
+.box{
+  height: 6px;
+  background-color: #eee;
+}
+
+.login{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.login input{
+  border: none;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  height: 40px;
+  padding-left: 10px;
+  outline: none;
+}
+.login input::placeholder{
+  font-size: 10px;
+  font-weight: 900;
+  color: #aaa;
+}
+
+.login_check{
+  display: flex;
+  gap:15px
+}
+
+.login_check_id{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.login_check_id input{
+  width: 20px;
+  height: 20px;
+}
+
+.login_check_id p{
+  margin: 0;
+  font-weight: 900;
+}
+
+.login_check_login{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.login_check_login p{
+  margin: 0;
+  font-weight: 900;
+}
+
+.login_check_login input{
+  width: 20px;
+  height: 20px;
+}
+
+.login_botton{
+  background-color: #ff243e;
+  color: white;
+  width: 100%;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.find{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.find a{
+  font-size: 10px;
+  color: black;
+  display: inline-block;
+  padding: 10px;
+}
+.find a:nth-of-type(2){
+  position: relative;
+}
+.find a:nth-of-type(2)::after{
+  content: "";
+  width: 1px;
+  height: 15px;
+  background-color: #aaa;
+  position: absolute;
+  top: 11px;
+  left: 0;
+}
+.find a:nth-of-type(2)::before{
+  content: "";
+  width: 1px;
+  height: 15px;
+  background-color: #aaa;
+  position: absolute;
+  top: 11px;
+  right: 0;
+}
+.find a:hover{
+  color: black;
+}
+
+.phone{
+  width: 100%;
+  text-align: center;
+  margin-top: 17px;
+}
+.phone_img{
+  width: 180px;
+  display: inline-block;
+}
+
+.under_login{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+.under_login a{
+  color: black;
+  font-size: 12px;
+
+}
+.under_login a:hover{
+  color: black;
+}
+.under_login img{
+  width: 30px;
+}
+
+.naver{
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  gap: 5px;
+}
+.naver p{
+  display: inline-block;
+  margin: 0;
+  font-weight: 900;
+}
+
+.kakao{
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  gap: 5px;
+}
+.kakao p{
+  display: inline-block;
+  margin: 0;
+  font-weight: 900;
+}
+
+.theother_login{
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+.theother_login a{
+  width: 50%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  color: black;
+  font-weight: 900;
+  font-size: 12px;
+}
+.theother_login a:hover{
+  color: black;
+}
+
+.ad02{
+  margin-top: 120px;
+  height: 85px;
+}

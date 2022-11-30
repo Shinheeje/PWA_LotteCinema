@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.219" height="21.508" viewBox="0 0 28.219 21.508">
+  <g id="그룹_4937" data-name="그룹 4937" transform="translate(-171 -759.775)">
+    <path id="빼기_7" data-name="빼기 7" d="M6.522,20.507H0L.042.039,17.4,0V20.505H10.231a1.865,1.865,0,0,0-3.709,0Z" transform="translate(176.409 760.275)" fill="#ff7787" stroke="#000" stroke-linejoin="round" stroke-width="1"/>
+    <text id="Tick" transform="translate(187.517 775.81) rotate(-90)" fill="#fff" font-size="9" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="0">Tick</tspan></text>
+    <path id="패스_3333" data-name="패스 3333" d="M0,0H27.219" transform="translate(171.5 760.275)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
