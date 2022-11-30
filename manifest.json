@@ -14,17 +14,17 @@
     {
       "src": "images/screenshot1.png",
       "sizes" : "361x702",
-      "type" : "image/png"
+      "type" : "image/PNG"
     },
     {
       "src": "images/screenshot2.png",
       "sizes" : "356x576",
-      "type" : "image/png"
+      "type" : "image/PNG"
     },
     {
       "src": "images/screenshot3.png",
       "sizes" : "352x666",
-      "type" : "image/png"
+      "type" : "image/PNG"
     }
   ],
   "icons": [
