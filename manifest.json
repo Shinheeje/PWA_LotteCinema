@@ -13,18 +13,18 @@
   "screenshots": [
     {
       "src": "images/screenshot1.png",
-      "sizes" : "361x702",
-      "type" : "image/PNG"
+      "sizes" : "361x533",
+      "type" : "image/png"
     },
     {
       "src": "images/screenshot2.png",
-      "sizes" : "356x576",
-      "type" : "image/PNG"
+      "sizes" : "361x522",
+      "type" : "image/png"
     },
     {
       "src": "images/screenshot3.png",
-      "sizes" : "352x666",
-      "type" : "image/PNG"
+      "sizes" : "360x599",
+      "type" : "image/png"
     }
   ],
   "icons": [
