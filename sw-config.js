@@ -1,6 +1,6 @@
 module.exports = {
   staticFileGlobs: [
-    'css/**.css',
+    'css/*.css',
     '*.html',
     'images/**.*',
     'img/**.*',
@@ -11,4 +11,4 @@ module.exports = {
     urlPattern: /this\\.is\\.a\\.regex/,
     handler: 'networkFirst'
   }]
-};
+};  
