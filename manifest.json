@@ -12,17 +12,17 @@
   "categories": [],
   "screenshots": [
     {
-      "src": "images/screenshot1.png",
-      "sizes" : "361x533",
+      "src": "images/screenshot1.PNG",
+      "sizes" : "361x553",
       "type" : "image/png"
     },
     {
-      "src": "images/screenshot2.png",
+      "src": "images/screenshot2.PNG",
       "sizes" : "361x522",
       "type" : "image/png"
     },
     {
-      "src": "images/screenshot3.png",
+      "src": "images/screenshot3.PNG",
       "sizes" : "360x599",
       "type" : "image/png"
     }
